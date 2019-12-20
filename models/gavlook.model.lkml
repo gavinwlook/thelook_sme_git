@@ -1,4 +1,4 @@
-connection: "thelook" #this is totally going to make it to prod until I revert it.
+connection: "thelook"
 
 # include all the views
 include: "/views/**/*.view"
