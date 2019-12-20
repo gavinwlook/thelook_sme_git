@@ -8,7 +8,7 @@ datagroup: gavlook_default_datagroup {
   max_cache_age: "1 hour"
 }
 
-persist_with: gavlook_default_datagroup #does this even exist??
+persist_with: gavlook_default_datagroup
 
 explore: calendar_table {}
 
