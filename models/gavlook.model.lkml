@@ -14,8 +14,6 @@ explore: calendar_table {}
 
 explore: connection_reg_r3 {}
 
-explore: epoch_test {}
-
 explore: events {
   join: users {
     type: left_outer
